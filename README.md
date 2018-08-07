@@ -43,3 +43,9 @@ this.auth0 = new auth0.WebAuth({
   scope: 'openid'
 });
 ```
+
+6. Run the app
+
+```bash
+npm start
+```
